@@ -1,9 +1,6 @@
-#ifndef GENERAL_OBJECTS_H
-#define GENERAL_OBJECTS_H
-#include"general_objects.h"
 #include <iostream>
 #include "bomb.h"
-#include "models/app_model.h"
+//#include "models/app_model.h"
 
 
 class Player{//creando mi clase jugador
@@ -88,5 +85,3 @@ public:
   }
 
 };
-
-#endif
