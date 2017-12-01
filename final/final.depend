@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1512048952 source:c:\users\acer\desktop\cci\proyectofinal\final\main.cpp
+	"MVC/app_controller.h"
+	<SFML/Graphics/RenderWindow.hpp>
+
+1512049090 c:\users\acer\desktop\cci\proyectofinal\final\mvc\app_controller.h
+	"app_view.h"
+
+1512049822 c:\users\acer\desktop\cci\proyectofinal\final\mvc\app_view.h
+	"objects/player.h"
+
+1512047911 c:\users\acer\desktop\cci\proyectofinal\final\mvc\objects\player.h
+	"bomb.h"
+
+1512009393 c:\users\acer\desktop\cci\proyectofinal\final\mvc\objects\bomb.h
+	"general_objects.h"
+	"models/app_models.h"
+
+1512009711 c:\users\acer\desktop\cci\proyectofinal\final\mvc\objects\general_objects.h
+	<iostream>
+
+1512007409 c:\users\acer\desktop\cci\proyectofinal\final\mvc\objects\models\app_models.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	<math.h>
+	<stdlib.h>
+
+1512048357 source:c:\users\acer\desktop\cci\proyectofinal\final\mvc\app_view.cpp
+	"app_view.h"
+
+1512047890 source:c:\users\acer\desktop\cci\proyectofinal\final\mvc\objects\bomb.cpp
+	"bomb.h"
+
+1512009124 source:c:\users\acer\desktop\cci\proyectofinal\final\mvc\objects\general_objects.cpp
+	"general_objects.h"
+
+1512007003 source:c:\users\acer\desktop\cci\proyectofinal\final\mvc\objects\models\app_models.cpp
+	"app_models.h"
+
+1512048065 source:c:\users\acer\desktop\cci\proyectofinal\final\mvc\objects\player.cpp
+	"player.h"
+
